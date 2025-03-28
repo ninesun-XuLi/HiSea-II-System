@@ -16,8 +16,6 @@ I sincerely appreciate your feedback. Thank you!
 **Optical Oceanography Laboratory (OOL)**, Xiamen University  
 All rights reserved.
 
----
-
 # Reference
 
 About HiSea-II:
