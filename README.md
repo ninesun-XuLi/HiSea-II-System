@@ -3,12 +3,12 @@ An Information Service Platform for Supporting Ocean Color Products from the HiS
 
 IP address: **http://101.34.254.79/** or **http://122.51.24.217/**
 
-This system was developed and is maintained by **Xu Li**, Xiamen University.
-If you have any questions, or suggestions, please contact Xu via:
+This system was developed and is maintained by **Xu Li**, Xiamen University.  
+If you have any questions, or suggestions, please contact Xu via:  
 - 📧 Email:  
   22320240156723@stu.xmu.edu.cn  
-  22320211151401@stu.xmu.edu.cn
-I sincerely appreciate your feedback. Thank you!
+  22320211151401@stu.xmu.edu.cn  
+I sincerely appreciate your feedback. Thank you!  
 
 ## © Copyright
 
