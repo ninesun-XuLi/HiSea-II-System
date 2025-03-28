@@ -11,7 +11,7 @@ If you have any questions, or suggestions, please contact Xu via:
   
 I sincerely appreciate your feedback. Thank you!  
 
-## © Copyright
+# © Copyright
 
 **Optical Oceanography Laboratory (OOL)**, Xiamen University  
 All rights reserved.
