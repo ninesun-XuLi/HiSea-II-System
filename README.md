@@ -20,8 +20,8 @@ All rights reserved.
 
 About HiSea-II:
 - Lee, Z., Wang, D., Zheng, Z., Wang, L., Xu, P., Li, X., Qiao, H., Wu, X., Jian, C., Dai, M., Shang, S., & Bao, Y. (2024).  
-SmallSat for Monitoring Aquatic Ecosystem of Coastal and Inland Waters: The Experience of HiSea-II. IEEE Transactions on Geoscience and Remote Sensing, 62, 1-10
-https://doi.org/10.1109/TGRS.2024.3459912
+[SmallSat for Monitoring Aquatic Ecosystem of Coastal and Inland Waters: The Experience of HiSea-II](https://doi.org/10.1109/TGRS.2024.3459912). IEEE Transactions on Geoscience and Remote Sensing, 62, 1-10
+
 
 ---
 
