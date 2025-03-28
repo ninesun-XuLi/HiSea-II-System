@@ -7,7 +7,8 @@ This system was developed and is maintained by **Xu Li**, Xiamen University.
 If you have any questions, or suggestions, please contact Xu via:  
 - 📧 Email:  
   22320240156723@stu.xmu.edu.cn  
-  22320211151401@stu.xmu.edu.cn  
+  22320211151401@stu.xmu.edu.cn
+  
 I sincerely appreciate your feedback. Thank you!  
 
 ## © Copyright
