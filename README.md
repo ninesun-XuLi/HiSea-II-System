@@ -3,6 +3,14 @@ An Information Service Platform for Supporting Ocean Color Products from the HiS
 
 IP address: **http://101.34.254.79/** or **http://122.51.24.217/**
 
+# Reference
+
+About HiSea-II:
+- Lee, Z., Wang, D., Zheng, Z., Wang, L., Xu, P., Li, X., Qiao, H., Wu, X., Jian, C., Dai, M., Shang, S., & Bao, Y. (2024). 
+SmallSat for Monitoring Aquatic Ecosystem of Coastal and Inland Waters: The Experience of HiSea-II. IEEE Transactions on Geoscience and Remote Sensing, 62, 1-10
+10.1109/TGRS.2024.3459912
+
+---
 
 ## V4.0.1 - New Release!
 - Added query support for L2 chlorophyll (chl) data  
